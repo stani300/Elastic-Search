@@ -1,0 +1,11 @@
+(base) [shanewest@Shane300 data]$ pip install elasticsearch
+Collecting elasticsearch
+  Downloading elasticsearch-6.2.0-py2.py3-none-any.whl (69kB)
+    100% |████████████████████████████████| 71kB 2.8MB/s 
+Requirement already satisfied: urllib3<1.23,>=1.21.1 in /Users/shanewest/anaconda2/lib/python2.7/site-packages (from elasticsearch)
+Installing collected packages: elasticsearch
+Successfully installed elasticsearch-6.2.0
+You are using pip version 9.0.1, however version 9.0.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+(base) [shanewest@Shane300 data]$ python ElasticSearch.py 
+(base) [shanewest@Shane300 data]$ 
